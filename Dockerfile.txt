@@ -4,7 +4,7 @@ cd var/www/html
  
 sudo rm index.html
 
-cp index.php
+sudo cp index.php var/www/html
 
 
 
